@@ -1,0 +1,45 @@
+##############################################################
+
+ymsp430g2955_qfn_bo.name=YoshPad G2955 QFN B0 (DEFAULT USCIB0)
+ymsp430g2955_qfn_bo.upload.protocol=rf2500
+ymsp430g2955_qfn_bo.upload.maximum_size=57088
+ymsp430g2955_qfn_bo.build.mcu=msp430g2955
+ymsp430g2955_qfn_bo.build.f_cpu=16000000L
+ymsp430g2955_qfn_bo.build.core=msp430
+ymsp430g2955_qfn_bo.build.variant=yosh_g2955_qfn_B0_OLD
+ymsp430g2955_qfn_bo.upload.maximum_ram_size=4096
+
+##############################################################
+
+ymsp430g2955_qfn_bn.name=YoshPad G2955 QFN B0 NEW (PROJECT)
+ymsp430g2955_qfn_bn.upload.protocol=rf2500
+ymsp430g2955_qfn_bn.upload.maximum_size=57088
+ymsp430g2955_qfn_bn.build.mcu=msp430g2955
+ymsp430g2955_qfn_bn.build.f_cpu=16000000L
+ymsp430g2955_qfn_bn.build.core=msp430
+ymsp430g2955_qfn_bn.build.variant=yosh_g2955_qfn_B0_NEW
+ymsp430g2955_qfn_bn.upload.maximum_ram_size=4096
+
+##############################################################
+
+ymsp430g2955_qfn_ao.name=YoshPad G2955 QFN A0 (OPTION USCIA0)
+ymsp430g2955_qfn_ao.upload.protocol=rf2500
+ymsp430g2955_qfn_ao.upload.maximum_size=57088
+ymsp430g2955_qfn_ao.build.mcu=msp430g2955
+ymsp430g2955_qfn_ao.build.f_cpu=16000000L
+ymsp430g2955_qfn_ao.build.core=msp430
+ymsp430g2955_qfn_ao.build.variant=yosh_g2955_qfn_A0_OLD
+ymsp430g2955_qfn_ao.upload.maximum_ram_size=4096
+
+##############################################################
+
+ymsp430g2955_qfn_an.name=YoshPad G2955 QFN A0 NEW (PROJECT)
+ymsp430g2955_qfn_an.upload.protocol=rf2500
+ymsp430g2955_qfn_an.upload.maximum_size=57088
+ymsp430g2955_qfn_an.build.mcu=msp430g2955
+ymsp430g2955_qfn_an.build.f_cpu=16000000L
+ymsp430g2955_qfn_an.build.core=msp430
+ymsp430g2955_qfn_an.build.variant=yosh_g2955_qfn_A0_NEW
+ymsp430g2955_qfn_an.upload.maximum_ram_size=4096
+
+##############################################################
